@@ -1,29 +1,13 @@
 ## Overview
 
-This is a short code used for transcribing MP3 files into txt files. This repository was made for youtube in mind so I can create better looking and perfectly timed subtitles.
+This repository contains a Criss-Cross (Tic-Tac-Toe) game designed for learning purposes, where a player competes against the computer. The project was built to practice programming concepts such as game logic, basic AI for decision-making, and input handling. The game is played on a 3x3 grid, and the computer uses a simple algorithm to make its moves.
 
 ### Features
 
-- 🎵 Supports MP3 and FLAC audio files for processing.
-
-- 🐍 Implemented in Python for efficient execution.
-
-- 📝 Transcribes spoken words into text and saves it as a file.
-
-- 🔑 Requires a working API key for integration with external services.
-
-### HOW TO USE
-
-- 📦 1. Install the AssemblyAI Package: Run pip install assemblyai.
-
-- 📥 2. Import the Module: Use import assemblyai as aai.
-
-- 🔑 3. Set Your API Key: Assign your API key with aai.settings.api_key = "your_api_key_here".
-
-- 📂 4. Specify File Paths: Set the paths for your MP3 file and output SRT file.
-
-- 🎤 5. Transcribe Audio: Configure settings and run transcriber.transcribe(FILE_PATH, config=config).
-
-- 💾 6. Save Transcript: Format and save the transcription to the specified file.
-
-- ✅ 7. Check Output: Verify the transcription is saved correctly.
+- 🎮 Player vs Computer: Play Criss-Cross against a computer opponent with predefined logic.
+- 🛠 Learning-Oriented: A beginner-friendly project for learning game development and AI logic.
+- 🤖 Computer Moves: The computer makes intelligent moves, trying to block or win when possible.
+- 🎲 Game Logic: Includes win-checking, tie-checking, and alternating turns between the player and the computer.
+- 🔁 Replayable: Play multiple rounds, with the option to restart after each match.
+- 🖥 Command-Line Interface: Fully playable via the terminal/console.
+  
