@@ -4,7 +4,7 @@
 
 ![Posnetek zaslona 2024-09-20 233530](https://github.com/user-attachments/assets/cd8ae2ac-e60b-4f6b-a95e-ff53c4580cf5)
 
-![Posnetek zaslona 2024-09-20 233530](https://github.com/user-attachments/assets/b3472eef-9fcf-46bf-aa0b-8f9b06461c33)
+![Posnetek zaslona 2024-d-20 233653](https://github.com/user-attachments/assets/1ead0a88-627e-4466-885c-e853290334a9)
 
 This repository contains a Criss-Cross (Tic-Tac-Toe) game designed for learning purposes, where a player competes against the computer. The project was built to practice programming concepts such as game logic, basic AI for decision-making, and input handling. The game is played on a 3x3 grid, and the computer uses a simple algorithm to make its moves.
 
